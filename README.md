@@ -1,5 +1,5 @@
 # MealsMagic  
-MealsMagic is a web application that helps users identify restaurants based on the meals they provide. With the help of a MongoDB database, users can explore various locations and choose their desired meal type that directs them to display restaurant details. The application is built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js with MVC Architechture. Additionally, Postman is used for testing the API endpoints.  
+MealsMagic is an online web application that assists users in locating notable restaurants depending on the categories of meals they provide. Data from the MongoDB database helps users to explore the locations of such notable restaurants and on selecting their preferred meal type, directing them to the appropriate restaurants that are providing the same meals. The MERN stack is used to build the application, which comprises MongoDB, Express.js, React.js, and Node.js with MVC architecture. Additionally, Postman is also used for testing the API endpoints. 
 # Installation 
 1. Install the required dependencies: npm install  
 2. Set up the MongoDB database and configure the connection settings.
@@ -12,11 +12,11 @@ MealsMagic is a web application that helps users identify restaurants based on t
 
 https://github.com/sreelakshmisatheesh/MealsMagic/assets/90602917/29c0f113-89f4-40a6-be5d-e9bc7993bed8  
 # Tech Stack  
-1. MongoDB: A NoSQL database used for storing restaurant and location data.  
-2. Express.js: A web application framework for building the server-side API.  
-3. React.js: A JavaScript library for building user interfaces.
-4. Node.js: A JavaScript runtime environment for executing server-side code  
-5. Postman: A collaboration platform for testing and documenting API endpoints.  
+1. **M**ongoDB: A NoSQL database used for storing restaurant and location data. [Database]
+2. **E**xpress.js: A web application framework for building the server-side API.  [Backend]
+3. **R**eact.js: A JavaScript library for building user interfaces. [Frontend]
+4. **N**ode.js: A JavaScript runtime environment for executing server-side code [Environment]
+5. Postman: A collaboration platform for testing and documenting API endpoints. [Application Programming Interface]
 # License  
 MealsMagic is licensed under the MIT License.  
 # Support and Contact  
