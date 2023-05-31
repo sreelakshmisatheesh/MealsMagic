@@ -10,7 +10,11 @@ MealsMagic is an online web application that assists users in locating notable 
 3. **Page 3** - The Restaurant Details page provides users with comprehensive information about a selected restaurant. It includes a description of the restaurant, its detailed location, contact number, approximate price range, and rating. This information is fetched from the MongoDB database.  
 4. 
 
-https://github.com/sreelakshmisatheesh/MealsMagic/assets/90602917/29c0f113-89f4-40a6-be5d-e9bc7993bed8  
+
+
+https://github.com/sreelakshmisatheesh/MealsMagic/assets/90602917/bc710a07-58d1-4703-bc45-99ea61bb36b4
+
+
 # Tech Stack  
 1. **M**ongoDB: A NoSQL database used for storing restaurant and location data. [Database]
 2. **E**xpress.js: A web application framework for building the server-side API.  [Backend]
